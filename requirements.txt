@@ -1,0 +1,6 @@
+pandas
+numpy
+vaderSentiment
+transformers
+nltk
+scikit-learn
